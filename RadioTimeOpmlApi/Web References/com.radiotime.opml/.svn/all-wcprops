@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/39/trunk/RadioTimeOpmlApi/Web%20References/com.radiotime.opml
+END
+Reference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/39/trunk/RadioTimeOpmlApi/Web%20References/com.radiotime.opml/Reference.cs
+END
+Radio.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/7/trunk/RadioTimeOpmlApi/Web%20References/com.radiotime.opml/Radio.wsdl
+END
+metadataResponse.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/RadioTimeOpmlApi/Web%20References/com.radiotime.opml/metadataResponse.datasource
+END
+mediaMetadata.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/RadioTimeOpmlApi/Web%20References/com.radiotime.opml/mediaMetadata.datasource
+END
+Reference.map
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/RadioTimeOpmlApi/Web%20References/com.radiotime.opml/Reference.map
+END
+GetLastUpdateResponse.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/RadioTimeOpmlApi/Web%20References/com.radiotime.opml/GetLastUpdateResponse.datasource
+END

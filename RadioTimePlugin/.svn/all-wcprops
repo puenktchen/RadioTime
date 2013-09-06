@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/42/trunk/RadioTimePlugin
+END
+PlayListPLSEIO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/37/trunk/RadioTimePlugin/PlayListPLSEIO.cs
+END
+BaseGui.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/39/trunk/RadioTimePlugin/BaseGui.cs
+END
+SetupForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/42/trunk/RadioTimePlugin/SetupForm.Designer.cs
+END
+radiotime_disabled.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17/trunk/RadioTimePlugin/radiotime_disabled.png
+END
+SetupForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/27/trunk/RadioTimePlugin/SetupForm.cs
+END
+RadioTimePlugin.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/39/trunk/RadioTimePlugin/RadioTimePlugin.csproj
+END
+StationSort.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/20/trunk/RadioTimePlugin/StationSort.cs
+END
+PresetsGUI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/36/trunk/RadioTimePlugin/PresetsGUI.cs
+END
+NowPlayingGUI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/34/trunk/RadioTimePlugin/NowPlayingGUI.cs
+END
+radiotime.png
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/17/trunk/RadioTimePlugin/radiotime.png
+END
+DownloadFileObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/RadioTimePlugin/DownloadFileObject.cs
+END
+Translation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/20/trunk/RadioTimePlugin/Translation.cs
+END
+SetupForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/27/trunk/RadioTimePlugin/SetupForm.resx
+END
+Settings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/34/trunk/RadioTimePlugin/Settings.cs
+END
+RadioTimePluginGUI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/38/trunk/RadioTimePlugin/RadioTimePluginGUI.cs
+END
+PlayListASXIO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/34/trunk/RadioTimePlugin/PlayListASXIO.cs
+END
+MiniGuide.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/34/trunk/RadioTimePlugin/MiniGuide.cs
+END
